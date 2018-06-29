@@ -1,0 +1,29 @@
+{
+  "name": "quarkdb",
+  "version": "1.1.0",
+  "description": "Simple JSON db implemented for local storage in electron projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisAcerv/quarkdb.git"
+  },
+  "keywords": [
+    "json",
+    "db",
+    "nosql"
+  ],
+  "author": "Luis Cervantes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuisAcerv/quarkdb/issues"
+  },
+  "homepage": "https://github.com/LuisAcerv/quarkdb#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "semver": "^5.5.0"
+  }
+}
