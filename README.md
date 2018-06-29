@@ -1,9 +1,11 @@
 # Quark DB
-Simple JSON db implemented for local storage in electron projects
+Simple JSON db implemented for local storage in Electron projects
 
 ## Installation
 
-`npm install --save quarkdb`
+`npm install --save my-quarkdb`
+
+`npm install`
 
 ## Usage
 
